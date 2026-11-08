@@ -1,0 +1,7 @@
+/target/
+/data/
+/.tools/
+/.idea/
+*.iml
+*.log
+/review-parser-source.zip
